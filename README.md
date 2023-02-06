@@ -3,5 +3,5 @@ Deep supervised learning methods applied to identify the position of active/inac
 
 The project focuses on learning how to construct the models and design sound experimental procedures to obtain statistically reliable results.
 
-For the main code check *project notebook*. Also available in HTML.  
-For the full report check the *project report* PDF.
+For the main code check *BioinformaticsProject* notebook. Also available in HTML.  
+For the full report check the *Project_Report* PDF.
